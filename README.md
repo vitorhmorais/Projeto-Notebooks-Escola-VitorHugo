@@ -1,4 +1,4 @@
-# Projeto de Modernização Tecnológica: Aquisição de Notebooks para o Ensino Híbrido no Polo Caucaia
+# Projeto de Modernização Tecnológica
 
 ---
 
@@ -91,4 +91,4 @@ A aquisição dos notebooks trará melhorias significativas para toda a comunida
 
 ## 8. Considerações Finais
 
-Este projeto visa garantir que a Escola Estadual Modelo esteja alinhada às demandas educacionais contemporâneas, promovendo um ensino mais dinâmico, acessível e eficiente. A escolha pelos notebooks é justificada pela sua versatilidade, economia e adequação pedagógica. O seguro contra acidentes e o sistema de rastreamento são essenciais para a proteção do investimento público, garantindo a durabilidade e segurança dos equipamentos adquiridos Com um **orçamento estimado de R$ 165.750,00**, que inclui importantes medidas de segurança, consideramos este projeto financeiramente viável e de alto retorno para a qualidade educacional e a proteção do patrimônio. Contamos com a análise e aprovação deste projeto para que possamos iniciar essa transformação em breve.
+Este projeto visa garantir que a Escola Estadual Modelo esteja alinhada às demandas educacionais contemporâneas, promovendo um ensino mais dinâmico, acessível e eficiente. A escolha pelos notebooks é justificada pela sua versatilidade, economia e adequação pedagógica. O seguro contra acidentes e o sistema de rastreamento são essenciais para a proteção do investimento público, garantindo a durabilidade e segurança dos equipamentos adquiridos. Com um **orçamento estimado de R$ 165.750,00**, que inclui importantes medidas de segurança, consideramos este projeto financeiramente viável e de alto retorno para a qualidade educacional e a proteção do patrimônio. Contamos com a análise e aprovação deste projeto para que possamos iniciar essa transformação em breve.

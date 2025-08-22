@@ -20,7 +20,7 @@ A aquisição de notebooks representa uma solução eficiente, permitindo maior 
 
 Os objetivos específicos desta aquisição são:
 
-* **1.Promover a mobilidade e flexibilidade no uso dos recursos computacionais.** 
+* **1. Promover a mobilidade e flexibilidade no uso dos recursos computacionais.** 
 * **2. Aumentar a utilização dos equipamentos em 70% em diferentes ambientes escolares.**
 * **3. Reduzir o consumo de energia em até 30% em comparação aos desktops antigos.** 
 * **4. Facilitar o acesso a ferramentas educacionais modernas.** 
@@ -47,12 +47,11 @@ As especificações abaixo detalham os requisitos mínimos e recomendados para o
 
 A imagem a seguir representa o tipo de notebook que atenderia às necessidades do nosso projeto, focando em portabilidade e desempenho superior:
 
-![Exemplo de Notebook de Alto Desempenho](https://via.placeholder.com/600x300/F0F0F0/000000?text=Notebook+de+Alto+Desempenho)
 ![Exemplo de Notebook de Alto Desempenho](https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/15-3530-intel/media-gallery/black/notebook-inspiron-15-3530-nt-plastic-black-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=606&qlt=100,1&resMode=sharp2&size=606,402&chrss=full)
 
 *Representação visual de um notebook moderno, potente e portátil, ideal para o ambiente educacional exigente.*
 
-Para mais detalhes sobre as especificações de notebooks e suas aplicações em ambientes educacionais, consulte o artigo da Intel sobre [Tecnologia na Educação](https://www.intel.com.br/content/www/br/pt/education/solutions/overview.html). Além disso, a importância da mobilidade no aprendizado é destacada em estudos como este da Microsoft: [O Futuro do Trabalho e do Aprendizado](https://www.microsoft.com/pt-br/education/resource-library/transforming-education-insights). *(Obs: Os links são exemplos e devem ser substituídos por links reais e relevantes.)*
+Para mais detalhes sobre as especificações de notebooks e suas aplicações em ambientes educacionais, consulte o artigo da Intel sobre [Tecnologia na Educação](https://www.intel.com.br/content/www/br/pt/education/solutions/overview.html). 
 
 ---
 
